@@ -1,0 +1,12 @@
+User-agent: Googlebot
+Disallow:
+User-agent: *
+Disallow: /wp-admin/
+Host: treasureantique.com
+Sitemap: http://treasureantique.com/sitemap.xml.gz
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/

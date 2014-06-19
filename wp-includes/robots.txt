@@ -1,0 +1,15 @@
+User-agent: *  
+Allow: */uploads  
+Disallow: /cgi-bin  
+Disallow: /wp-  
+Disallow: */feed
+Disallow: /search
+Disallow: /xmlrpc.php  
+Disallow: /tag
+Disallow: /category
+Disallow: /archive
+Disallow: */trackback
+Disallow: /*?*
+          
+Host: treasureantique.com
+Sitemap: http://treasureantique.com/sitemap_index.xml

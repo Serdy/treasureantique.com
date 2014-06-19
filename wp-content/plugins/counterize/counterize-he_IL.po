@@ -1,0 +1,2194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: counterize 3.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-31 22:41+0800\n"
+"PO-Revision-Date: 2012-01-31 22:41+0800\n"
+"Last-Translator: Gabriel Hautclocq <gabriel@gabsoftware.com>\n"
+"Language-Team: GabSoftware <gabriel@gabsoftware.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: /home/gabriel/web/counterize/\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: counterize_deprecated.php:700
+#: counterize_deprecated.php:923
+#: counterize_deprecated.php:1018
+#: counterize_feed.php:138
+#: counterize_feed.php:289
+#@ counterize
+msgid "Statistics"
+msgstr "סטטיסטיקה"
+
+#: counterize_deprecated.php:703
+#: counterize_deprecated.php:926
+#: counterize_feed.php:143
+#@ counterize
+msgid "Amount"
+msgstr "כמות"
+
+#: counterize_deprecated.php:704
+#: counterize_deprecated.php:927
+#: counterize_feed.php:144
+#@ counterize
+msgid "Percentage"
+msgstr "אחוז"
+
+#: counterize.php:2983
+#: counterize.php:3120
+#: counterize.php:3127
+#: counterize.php:3322
+#: counterize_dashboard.php:43
+#: counterize_dashboard.php:101
+#: counterize_plugin_browsers.php:140
+#: counterize_plugin_browsers.php:224
+#: counterize_plugin_countries.php:141
+#: counterize_plugin_countries.php:219
+#: counterize_plugin_ip.php:140
+#: counterize_plugin_ip.php:216
+#: counterize_plugin_keywords.php:141
+#: counterize_plugin_keywords.php:222
+#: counterize_plugin_os.php:140
+#: counterize_plugin_os.php:224
+#: counterize_plugin_outlinks.php:141
+#: counterize_plugin_outlinks.php:243
+#: counterize_plugin_pages.php:140
+#: counterize_plugin_pages.php:238
+#: counterize_plugin_referers.php:142
+#: counterize_plugin_referers.php:244
+#: counterize_plugin_traffic.php:143
+#: counterize_plugin_traffic.php:319
+#@ counterize
+msgid "Counterize"
+msgstr "מונה"
+
+#: counterize.php:3120
+#: counterize.php:3127
+#: counterize_dashboard.php:43
+#: counterize_dashboard.php:101
+#: counterize_plugin_browsers.php:140
+#: counterize_plugin_browsers.php:224
+#: counterize_plugin_countries.php:141
+#: counterize_plugin_countries.php:219
+#: counterize_plugin_ip.php:140
+#: counterize_plugin_ip.php:216
+#: counterize_plugin_keywords.php:141
+#: counterize_plugin_keywords.php:222
+#: counterize_plugin_os.php:140
+#: counterize_plugin_os.php:224
+#: counterize_plugin_outlinks.php:141
+#: counterize_plugin_outlinks.php:243
+#: counterize_plugin_pages.php:140
+#: counterize_plugin_pages.php:238
+#: counterize_plugin_referers.php:142
+#: counterize_plugin_referers.php:244
+#: counterize_plugin_traffic.php:143
+#: counterize_plugin_traffic.php:319
+#@ counterize
+msgid "Dashboard"
+msgstr "לוח בקרה"
+
+#: counterize.php:2302
+#: counterize.php:2316
+#: counterize.php:2367
+#: counterize_deprecated.php:317
+#: counterize_deprecated.php:340
+#: counterize_plugin_keywords.php:141
+#: counterize_plugin_keywords.php:142
+#: counterize_plugin_keywords.php:166
+#: counterize_plugin_keywords.php:222
+#: counterize_plugin_keywords.php:289
+#: counterize_plugin_keywords.php:336
+#: counterize_plugin_keywords.php:418
+#: counterize_plugin_keywords.php:424
+#@ counterize
+#@ default
+msgid "Keywords"
+msgstr "מילות מפתח"
+
+#: counterize_plugin_keywords.php:186
+#: counterize_plugin_keywords.php:283
+#@ counterize
+msgid "Most searched keywords"
+msgstr "מילות המפתח עם הכי הרבה חיפושים"
+
+#: counterize_plugin_keywords.php:187
+#@ counterize
+msgid "<p>Displays a diagram of the keywords typed by your visitors in a search engine before they visited your website.</p>"
+msgstr "<p> מציג תרשים של מילות המפתח שהוקלדו על ידי המבקרים שלך במנוע חיפוש לפני שהם ביקרו באתר שלך. </ p>"
+
+#: counterize_plugin_keywords.php:188
+#: counterize_plugin_keywords.php:199
+#@ counterize
+msgid "<p>This is useful to find how your visitors find your website and what they are expecting to find.</p>"
+msgstr "<p> זה שימושי כדי למצוא איך המבקרים למצוא את האתר שלך ומה הם מצפים למצוא. </ p>"
+
+#: counterize_plugin_keywords.php:197
+#: counterize_plugin_keywords.php:330
+#: counterize_plugin_pages.php:193
+#@ counterize
+msgid "Most searched keywords for the last 24 hours"
+msgstr "מילות המפתח עם הכי הרבה חיפושים ב 24 השעות האחרונות"
+
+#: counterize_plugin_keywords.php:198
+#@ counterize
+msgid "<p>Displays a diagram of the keywords typed by your visitors in a search engine before they visited your website, for the last 24 hours only.</p>"
+msgstr "<p> מציג תרשים של מילות המפתח שהוקלדו על ידי המבקרים שלך במנוע חיפוש לפני שהם ביקרו באתר האינטרנט שלך, ב 24 השעות האחרונות בלבד. </ p>"
+
+#: counterize_plugin_browsers.php:209
+#: counterize_plugin_countries.php:204
+#: counterize_plugin_ip.php:201
+#: counterize_plugin_keywords.php:205
+#: counterize_plugin_os.php:209
+#: counterize_plugin_outlinks.php:228
+#: counterize_plugin_pages.php:223
+#: counterize_plugin_referers.php:229
+#: counterize_plugin_traffic.php:304
+#@ counterize
+msgid "<p>Choose a tab to learn more about the related diagram.</p>"
+msgstr "<p> בחר לשונית כדי ללמוד עוד על הדיאגרמה הקשורה לנושא שלה. </ p>"
+
+#: counterize_plugin_browsers.php:239
+#: counterize_plugin_countries.php:234
+#: counterize_plugin_ip.php:256
+#: counterize_plugin_keywords.php:237
+#: counterize_plugin_os.php:239
+#: counterize_plugin_outlinks.php:258
+#: counterize_plugin_pages.php:253
+#: counterize_plugin_referers.php:259
+#: counterize_plugin_traffic.php:334
+#@ counterize
+msgid "Need help about this page? Click on <strong>Help</strong> on the top of this page!"
+msgstr "זקוק לעזרה על דף זה? לחץ על <strong>Help</strong> ראש הדף!"
+
+#: counterize_plugin_countries.php:239
+#: counterize_plugin_ip.php:261
+#: counterize_plugin_keywords.php:242
+#: counterize_plugin_outlinks.php:263
+#: counterize_plugin_referers.php:264
+#: counterize_plugin_traffic.php:339
+#@ counterize
+msgid "There's no data in the database - You can't see stats until you have data. "
+msgstr "אין נתונים במסד הנתונים - אינך יכול לראות סטטיסטיקה לפני שיתקבלו נתונים."
+
+#: counterize_deprecated.php:377
+#: counterize_deprecated.php:415
+#: counterize_plugin_countries.php:141
+#: counterize_plugin_countries.php:142
+#: counterize_plugin_countries.php:165
+#: counterize_plugin_countries.php:219
+#: counterize_plugin_countries.php:285
+#: counterize_plugin_countries.php:358
+#: counterize_plugin_countries.php:468
+#: counterize_plugin_countries.php:474
+#@ counterize
+#@ default
+msgid "Countries"
+msgstr "מדינות"
+
+#: counterize_plugin_countries.php:184
+#: counterize_plugin_countries.php:279
+#@ counterize
+msgid "Most visiting countries"
+msgstr "המדינות עם הכי הרבה ביקורים"
+
+#: counterize_plugin_countries.php:185
+#: counterize_plugin_countries.php:196
+#@ counterize
+msgid "<p>Displays a diagram of the countries of your visitors. The country information is obtained using the visitor IP address.</p>"
+msgstr "<p> מציג תרשים של מדינות המבקרים. מידע המדינה מתקבל באמצעות כתובת ה-IP המבקר. </ P>"
+
+#: counterize_plugin_countries.php:186
+#: counterize_plugin_countries.php:198
+#@ counterize
+msgid "<p>This is useful to find where your visitors come from and can help you to target your audience.</p>"
+msgstr "<p> זה שימושי כדי למצוא מהיכן המבקרים מגיעים ויכול גם לעזור לך למקד את קהל היעד שלך. </ p>"
+
+#: counterize_plugin_countries.php:195
+#: counterize_plugin_countries.php:352
+#@ counterize
+msgid "Most visiting countries for the last 24 hours"
+msgstr "המדינות הכי מבקרות ב 24 השעות האחרונות"
+
+#: counterize_plugin_countries.php:197
+#@ counterize
+msgid "<p>This diagram represents the visitors of the last 24 hours only.</p>"
+msgstr "<p>תרשים זה מייצג את המבקרים ב 24 השעות האחרונות בלבד.</p>"
+
+#: counterize_deprecated.php:369
+#: counterize_deprecated.php:407
+#: counterize_deprecated.php:464
+#: counterize_deprecated.php:498
+#: counterize_deprecated.php:534
+#: counterize_deprecated.php:588
+#: counterize_deprecated.php:624
+#: counterize_deprecated.php:657
+#: counterize_plugin_countries.php:293
+#: counterize_plugin_countries.php:366
+#@ counterize
+msgid "unknown"
+msgstr "לא ידוע"
+
+#: counterize.php:2417
+#: counterize.php:2422
+#: counterize_iptocountry.php:85
+#: counterize_plugin_countries.php:304
+#: counterize_plugin_countries.php:377
+#, php-format
+#@ counterize
+msgid "National flag of %s"
+msgstr "הדגל הלאומי של %s"
+
+#: counterize_deprecated.php:118
+#: counterize_deprecated.php:160
+#: counterize_plugin_pages.php:431
+#: counterize_plugin_pages.php:506
+#, php-format
+#@ counterize
+msgid "Click here to view the post \"%s\""
+msgstr "לחץ כאן כדי לראות את הפוסט \"%s\""
+
+#: counterize_deprecated.php:126
+#: counterize_deprecated.php:168
+#@ counterize
+msgid "Posts"
+msgstr "פוסטים"
+
+#: counterize.php:2299
+#: counterize.php:2313
+#: counterize.php:2364
+#: counterize_deprecated.php:183
+#: counterize_deprecated.php:205
+#: counterize_plugin_outlinks.php:321
+#: counterize_plugin_outlinks.php:368
+#: counterize_plugin_outlinks.php:415
+#: counterize_plugin_outlinks.php:470
+#: counterize_plugin_pages.php:315
+#: counterize_plugin_pages.php:365
+#: counterize_plugin_referers.php:324
+#: counterize_plugin_referers.php:376
+#@ counterize
+msgid "URL"
+msgstr "כתובת URL"
+
+#: counterize.php:2300
+#: counterize.php:2314
+#: counterize.php:2365
+#: counterize_deprecated.php:230
+#: counterize_deprecated.php:251
+#: counterize_plugin_referers.php:142
+#: counterize_plugin_referers.php:143
+#: counterize_plugin_referers.php:166
+#: counterize_plugin_referers.php:244
+#: counterize_plugin_referers.php:583
+#: counterize_plugin_referers.php:590
+#@ counterize
+#@ default
+msgid "Referers"
+msgstr "הפניות"
+
+#: counterize.php:2296
+#: counterize.php:2310
+#: counterize.php:2361
+#: counterize_deprecated.php:275
+#: counterize_deprecated.php:297
+#: counterize_plugin_ip.php:322
+#: counterize_plugin_ip.php:372
+#@ counterize
+msgid "IP"
+msgstr "IP"
+
+#: counterize_deprecated.php:476
+#: counterize_deprecated.php:506
+#: counterize_deprecated.php:542
+#: counterize_plugin_browsers.php:140
+#: counterize_plugin_browsers.php:141
+#: counterize_plugin_browsers.php:164
+#: counterize_plugin_browsers.php:224
+#: counterize_plugin_browsers.php:308
+#: counterize_plugin_browsers.php:416
+#: counterize_plugin_browsers.php:500
+#: counterize_plugin_browsers.php:614
+#: counterize_plugin_browsers.php:620
+#@ counterize
+#@ default
+msgid "Browsers"
+msgstr "דפדפנים"
+
+#: counterize_deprecated.php:600
+#: counterize_deprecated.php:632
+#: counterize_deprecated.php:665
+#: counterize_plugin_os.php:308
+#: counterize_plugin_os.php:413
+#: counterize_plugin_os.php:486
+#@ counterize
+msgid "Operating systems"
+msgstr "מערכות הפעלה"
+
+#: counterize_deprecated.php:792
+#@ counterize
+msgid "Detailed statistics for this entry"
+msgstr "סטטיסטיקה מפורטת לערך זה"
+
+#: counterize_deprecated.php:810
+#: counterize_plugin_browsers.php:332
+#: counterize_plugin_os.php:332
+#@ counterize
+msgid "(no version)"
+msgstr "(אין גירסה)"
+
+#: counterize_plugin_referers.php:184
+#: counterize_plugin_referers.php:318
+#@ counterize
+msgid "Most seen referers"
+msgstr "ההפניות הכי נצפות"
+
+#: counterize_plugin_referers.php:185
+#@ counterize
+msgid "<p>Displays a diagram of the referers.</p>"
+msgstr "<p>מציג תרשים של ההפניות.</p>"
+
+#: counterize_plugin_referers.php:186
+#: counterize_plugin_referers.php:198
+#: counterize_plugin_referers.php:210
+#: counterize_plugin_referers.php:222
+#@ counterize
+msgid "<p>A referer is a URL from where a visitor comes from. By such, it means that there is a link to your website on the referer website.</p>"
+msgstr "<p>הפניה היא כתובת URL מהמקום ממנו הגיע המבקר. ככזו, משמעותה שיש קישור המפנה אל האתר שלך באתר המפנה.</p>"
+
+#: counterize_plugin_referers.php:187
+#: counterize_plugin_referers.php:199
+#: counterize_plugin_referers.php:211
+#: counterize_plugin_referers.php:223
+#@ counterize
+msgid "<p>This is useful to find where your website is the most linked.</p>"
+msgstr "<p>זה שימושי כדי למצוא היכן האתר שלך הכי מקושר.</p>"
+
+#: counterize_plugin_referers.php:196
+#: counterize_plugin_referers.php:370
+#@ counterize
+msgid "Most seen referers for the last 24 hours"
+msgstr "הכתובות המפנות הנצפים ביותר ב 24 השעות האחרונות"
+
+#: counterize_plugin_referers.php:197
+#@ counterize
+msgid "<p>Displays a diagram of the referers for the last 24 hours only.</p>"
+msgstr "<p>מציג תרשים של הכתובות המפנות ב 24 השעות האחרונות בלבד.</p>"
+
+#: counterize_plugin_referers.php:208
+#: counterize_plugin_referers.php:419
+#@ counterize
+msgid "Most seen refering domains"
+msgstr "הדומיינים הנצפים ביותר שמפנים לאתר שלך"
+
+#: counterize_plugin_referers.php:209
+#@ counterize
+msgid "<p>Displays a diagram of the refering domains.</p>"
+msgstr "<p>מציג תרשים של הדומיינים המפנים.</p>"
+
+#: counterize_plugin_referers.php:220
+#: counterize_plugin_referers.php:471
+#@ counterize
+msgid "Most seen refering domains for the last 24 hours"
+msgstr "הדומיינים המפנים הנצפים ביותר ב 24 השעות האחרונות"
+
+#: counterize_plugin_referers.php:221
+#@ counterize
+msgid "<p>Displays a diagram of the refering domains for the last 24 hours only.</p>"
+msgstr "<p>מציג תרשים של הדומיינים המפנים ב 24 השעות האחרונות בלבד.</p>"
+
+#: counterize_plugin_referers.php:425
+#: counterize_plugin_referers.php:477
+#@ counterize
+msgid "Domains"
+msgstr "דומיינים"
+
+#: counterize_plugin_referers.php:584
+#: counterize_plugin_referers.php:591
+#@ counterize
+msgid "Refering domains"
+msgstr "דומיינים מפנים"
+
+#: counterize_browsniff.php:45
+#@ counterize
+msgid "Unknown browser:<br />"
+msgstr "דפדפן לא ידוע:<br />"
+
+#: counterize_browsniff.php:52
+#: counterize_browsniff.php:56
+#: counterize_iptocountry.php:68
+#: counterize_plugin_browsers.php:316
+#: counterize_plugin_browsers.php:424
+#: counterize_plugin_browsers.php:508
+#: counterize_plugin_os.php:316
+#: counterize_plugin_os.php:421
+#: counterize_plugin_os.php:494
+#@ counterize
+msgid "Unknown"
+msgstr "לא ידוע"
+
+#: counterize_browsniff.php:1379
+#@ counterize
+msgid "Click here to visit this product homepage"
+msgstr "לחץ כאן כדי לבקר בדף הבית של המוצר"
+
+#: counterize_dashboard.php:25
+#@ counterize
+msgid "Total: "
+msgstr "סה\\\"כ:"
+
+#: counterize_dashboard.php:25
+#: counterize_dashboard.php:28
+#@ counterize
+msgid "hits and"
+msgstr "צפיות ו"
+
+#: counterize_dashboard.php:25
+#: counterize_dashboard.php:28
+#@ default
+msgid "unique."
+msgstr ""
+
+#: counterize_dashboard.php:28
+#@ counterize
+msgid "Today: "
+msgstr "היום:"
+
+#: counterize_dashboard.php:31
+#@ counterize
+msgid "Currently: "
+msgstr "כעת:"
+
+#: counterize_dashboard.php:31
+#@ counterize
+msgid "users online."
+msgstr "משתמשים מקוונים."
+
+#: counterize_dashboard.php:34
+#@ counterize
+msgid "Detailed view"
+msgstr "מידע מפורט"
+
+#: counterize_dashboard.php:76
+#: counterize_dashboard.php:131
+#@ counterize
+msgid "Deleting entry "
+msgstr "מוחק ערך"
+
+#: counterize.php:2291
+#: counterize.php:3034
+#: counterize.php:3127
+#: counterize_dashboard.php:101
+#@ counterize
+#@ default
+msgid "History"
+msgstr "הסטוריה"
+
+#: counterize_plugin_browsers.php:182
+#@ counterize
+msgid "Most used browsers (collapsible)"
+msgstr "הדפדפנים הנפוצים ביותר (מכונס)"
+
+#: counterize_plugin_browsers.php:183
+#@ counterize
+msgid "<p>Displays a mixed diagram of the most used browsers. Each root item represents a different browser regardless of its version.</p><p>Click on the [+] symbol near each item to expand the item and let version information appear.</p>"
+msgstr "<p>מציג תרשים מעורב של הדפדפנים הנפוצים ביותר. כל פריט מייצג דפדן שונה ללא קשר לגירסה שלו.</p><p>לחץ על סמל [+] ליד כל פריט כדי לפרוש ולקבל מידע נוסף על הגירסאות.</p>"
+
+#: counterize_plugin_browsers.php:192
+#@ counterize
+msgid "Most used browsers (without version)"
+msgstr "הדפדפנים הנפוצים ביותר (ללא גירסה)"
+
+#: counterize_plugin_browsers.php:193
+#@ counterize
+msgid "<p>Displays a diagram of the most used browsers regardless of their version.</p>"
+msgstr "<p>מציג תרשים של הדפדפנים הנפוצים ביותר ללא קשר לגירסה שלהם.</p>"
+
+#: counterize_plugin_browsers.php:202
+#: counterize_plugin_browsers.php:494
+#: counterize_plugin_browsers.php:500
+#@ counterize
+msgid "Most used browsers"
+msgstr "הדפדפנים הנפוצים ביותר לשימוש"
+
+#: counterize_plugin_browsers.php:203
+#@ counterize
+msgid "<p>Displays a diagram of the most used browsers with version information.</p>"
+msgstr "<p>מציג תרשים של הדפדפנים הנפוצים ביותר עם מידע על גירסאות הדפדפן.</p>"
+
+#: counterize.php:1913
+#: counterize_plugin_browsers.php:244
+#: counterize_plugin_os.php:244
+#: counterize_plugin_pages.php:258
+#@ counterize
+msgid "There's no data in the database - You can't see stats until you have data."
+msgstr "אין מידע במסד הנתונים. אינך יכול לראות סטטיסטיקה עד שיתקבלו נתונים."
+
+#: counterize_plugin_browsers.php:302
+#@ counterize
+msgid "Most used browsers ‪&#x202A;(click [+] for details)&#x202C;"
+msgstr "הדפדפנים הנפוצים ביותר ‪&#x202A;(לחץ [+] לפרטים)&#x202C;"
+
+#: counterize_plugin_browsers.php:327
+#@ counterize
+msgid "Detailed statistics for this browser"
+msgstr "סטטיסטיקה מפורטת לדפדפן זה"
+
+#: counterize_plugin_browsers.php:327
+#: counterize_plugin_os.php:327
+#, php-format
+#@ counterize
+msgid "%s versions"
+msgstr "%s גירסאות"
+
+#: counterize_plugin_browsers.php:410
+#@ counterize
+msgid "Most used browsers ‪‪&#x202A;(without version)‪&#x202C;"
+msgstr "הדפדפנים הנפוצים ביותר ‪‪&#x202A;(ללא גירסה)‪&#x202C;"
+
+#: counterize_admin.php:18
+#@ counterize
+msgid "You don't have sufficient privileges to display this page"
+msgstr "אין לך הרשאות מספיקות כדי להציג דף זה"
+
+#: counterize_admin.php:30
+#@ counterize
+msgid "Counterize configuration - Version "
+msgstr "תצורת מונה - גירסה"
+
+#: counterize_admin.php:40
+#@ counterize
+msgid "Save Changes"
+msgstr "שמור"
+
+#: counterize_admin.php:63
+#@ counterize
+msgid "Appearance"
+msgstr "מראה"
+
+#: counterize_admin.php:64
+#@ counterize
+msgid "Exclusions"
+msgstr "לא כלולים"
+
+#: counterize_admin.php:65
+#@ counterize
+msgid "IP-related"
+msgstr "IP קשורים"
+
+#: counterize_admin.php:66
+#@ counterize
+msgid "Database operations"
+msgstr "פעולות מסד נתונים"
+
+#: counterize_admin.php:67
+#@ counterize
+msgid "Email reports"
+msgstr "דו\\\"חות דוא\\\"ל"
+
+#: counterize_admin.php:70
+#@ counterize
+msgid "Rows to show in latest entries"
+msgstr "שורות להצגה בערכים האחרונים"
+
+#: counterize_admin.php:71
+#@ counterize
+msgid "Rows to show in vertical charts"
+msgstr "שורות להצגה בתרשימים אנכיים"
+
+#: counterize_admin.php:72
+#@ counterize
+msgid "Maximum width for labels"
+msgstr "רוחב מירבי של תוויות"
+
+#: counterize_admin.php:73
+#@ counterize
+msgid "Capability needed to display the Counterize dashboard"
+msgstr "נדרשת האפשרות להציג את לוח הבקרה של Counterize"
+
+#: counterize_admin.php:76
+#@ counterize
+msgid "Select users that may not be counted &#x202A;(press Ctrl for multi-selection)&#x202C;"
+msgstr "בחר משתמשים שאינם יכולים להיספר &#x202A;(לחץ Ctrl לבחירה מרובה)&#x202C;"
+
+#: counterize_admin.php:77
+#@ counterize
+msgid "Comma-separated list of IP to exclude from the statistics"
+msgstr "רשימת כתובות IP מופרדת בפסיק כדי לא לכלול בסטטיסטיקה"
+
+#: counterize_admin.php:78
+#@ counterize
+msgid "Enable <a href=\"http://en.wikipedia.org/wiki/Internet_bot\">bots</a> logging"
+msgstr "אפשר <a href=\"http://en.wikipedia.org/wiki/Internet_bot\">רובוטים</a> כניסה"
+
+#: counterize_admin.php:82
+#@ counterize
+msgid "My country allows to collect IPs"
+msgstr "המדינה שלי מרשה לאסוף IPs"
+
+#: counterize_admin.php:83
+#@ counterize
+msgid "Enable hostname lookup in IP stats (<strong>can make your website very slow!!!</strong>)"
+msgstr ""
+
+#: counterize_admin.php:84
+#@ counterize
+msgid "Whois URL string"
+msgstr ""
+
+#: counterize_admin.php:85
+#@ counterize
+msgid "Geo IP tool URL string"
+msgstr ""
+
+#: counterize_admin.php:88
+#@ counterize
+msgid "Flush the Counterize Database"
+msgstr ""
+
+#: counterize_admin.php:89
+#@ counterize
+msgid "Refresh the user-agent table"
+msgstr ""
+
+#: counterize_admin.php:90
+#@ counterize
+msgid "Manually delete the bots"
+msgstr ""
+
+#: counterize_admin.php:93
+#@ counterize
+msgid "Enable email reports"
+msgstr ""
+
+#: counterize_admin.php:94
+#@ counterize
+msgid "Recipient list &#x202A;(comma-separated list of email addresses)&#x202C;"
+msgstr ""
+
+#: counterize_admin.php:95
+#@ counterize
+msgid "Send a report"
+msgstr ""
+
+#: counterize_admin.php:96
+#@ counterize
+msgid "Set a custom period &#x202A;(in seconds)&#x202C;"
+msgstr ""
+
+#: counterize_admin.php:97
+#@ counterize
+msgid "Mail subject override &#x202A;(leave empty for default)&#x202C;"
+msgstr ""
+
+#: counterize_admin.php:98
+#@ counterize
+msgid "Select the items you want to include in the report &#x202A;(press CTRL for multi-selection)&#x202C;"
+msgstr ""
+
+#: counterize_admin.php:99
+#@ counterize
+msgid "Send report now"
+msgstr ""
+
+#: counterize_admin.php:105
+#@ counterize
+msgid "This section concerns the look and feel of Counterize."
+msgstr ""
+
+#: counterize_admin.php:111
+#@ counterize
+msgid "This section allows you to set some exclusions."
+msgstr ""
+
+#: counterize_admin.php:117
+#@ counterize
+msgid "This section is about IP-related options."
+msgstr ""
+
+#: counterize_admin.php:123
+#@ counterize
+msgid "Database maintenance operations are in this section."
+msgstr ""
+
+#: counterize_admin.php:130
+#@ counterize
+msgid "Configure email reports in this section."
+msgstr ""
+
+#: counterize_admin.php:133
+#, php-format
+#@ counterize
+msgid "Next report will be sent on <strong>%s</strong>."
+msgstr ""
+
+#: counterize_admin.php:137
+#@ counterize
+msgid "Email reports are currently <strong>disabled</strong>."
+msgstr ""
+
+#: counterize_admin.php:151
+#@ counterize
+msgid " to view all (not recommended because this exposes you to get an \"out of memory\" error)"
+msgstr ""
+
+#: counterize_admin.php:186
+#@ counterize
+msgid "Roles"
+msgstr ""
+
+#: counterize_admin.php:284
+#, php-format
+#@ counterize
+msgid "%s capabilities"
+msgstr ""
+
+#: counterize_admin.php:311
+#@ counterize
+msgid "Current user capabilities"
+msgstr ""
+
+#: counterize_admin.php:404
+#: counterize_admin.php:411
+#@ counterize
+msgid "Example:"
+msgstr ""
+
+#: counterize_admin.php:422
+#@ counterize
+msgid "&#x202A;(This means deleting all records and all stats! Don't forget to backup your database before if your data is important)&#x202C;"
+msgstr ""
+
+#: counterize_admin.php:430
+#@ counterize
+msgid "Database flushed!"
+msgstr ""
+
+#: counterize_admin.php:442
+#@ counterize
+msgid "&#x202A;(You may do this if you just upgraded from a previous version)&#x202C;"
+msgstr ""
+
+#: counterize_admin.php:449
+#@ counterize
+msgid "User-agent table refreshed!"
+msgstr ""
+
+#: counterize_admin.php:461
+#@ counterize
+msgid "&#x202A;(You should do this if you modified <strong>botlist.txt</strong>)&#x202C;"
+msgstr ""
+
+#: counterize_admin.php:465
+#@ counterize
+msgid "This could make your website really slow or even unresponsive! Do not delete bots if your database contains million of records and you are on a shared hosting service."
+msgstr ""
+
+#: counterize_admin.php:473
+#@ counterize
+msgid "Bots have been deleted!"
+msgstr ""
+
+#: counterize_admin.php:572
+#@ counterize
+msgid "Complete report"
+msgstr ""
+
+#: counterize_admin.php:611
+#@ counterize
+msgid "Report sent!"
+msgstr ""
+
+#: counterize_admin.php:616
+#@ counterize
+msgid ""
+"Error. The report could not be sent! Possible causes:\n"
+"\t\t\t<ol>\n"
+"\t\t\t\t<li>Create the email address wordpress@yoursite.com</li>\n"
+"\t\t\t\t<li>Settings SMTP and smtp_port need to be set in your php.ini</li>\n"
+"\t\t\t\t<li>Either set the sendmail_from setting in php.ini</li>\n"
+"\t\t\t</ol>"
+msgstr ""
+
+#: counterize_plugin_os.php:140
+#: counterize_plugin_os.php:141
+#: counterize_plugin_os.php:224
+#: counterize_plugin_os.php:599
+#: counterize_plugin_os.php:605
+#@ counterize
+msgid "Operating Systems"
+msgstr "מערכות הפעלה"
+
+#: counterize_plugin_os.php:164
+#@ default
+msgid "OS"
+msgstr ""
+
+#: counterize_plugin_os.php:182
+#@ counterize
+msgid "Most used operating systems (collapsible)"
+msgstr "מערכות ההפעלה שהכי בשימוש"
+
+#: counterize_plugin_os.php:183
+#@ counterize
+msgid "<p>Displays a mixed diagram of the most used operating systems. Each root item represents a different OS regardless of its version.</p><p>Click on the [+] symbol near each item to expand the item and let version information appear.</p>"
+msgstr ""
+
+#: counterize_plugin_os.php:192
+#@ counterize
+msgid "Most used operating systems (without version)"
+msgstr "מערכות ההפעלה שהכי בשימוש (ללא גירסה)"
+
+#: counterize_plugin_os.php:193
+#@ counterize
+msgid "<p>Displays a diagram of the most used operating systems regardless of their version.</p>"
+msgstr ""
+
+#: counterize_plugin_os.php:202
+#: counterize_plugin_os.php:480
+#@ counterize
+msgid "Most used operating systems"
+msgstr "מערכות ההפעלה שהכי בשימוש"
+
+#: counterize_plugin_os.php:203
+#@ counterize
+msgid "<p>Displays a diagram of the most used operating systems with version information.</p>"
+msgstr ""
+
+#: counterize_plugin_os.php:302
+#@ counterize
+msgid "Most used operating systems ‪&#x202A;(click [+] for details)&#x202C;"
+msgstr ""
+
+#: counterize_plugin_os.php:327
+#@ counterize
+msgid "Detailed statistics for this operating system"
+msgstr ""
+
+#: counterize_plugin_os.php:407
+#@ counterize
+msgid "Most used operating systems ‪‪&#x202A;(without version)‪&#x202C;"
+msgstr ""
+
+#: counterize_plugin_ip.php:140
+#: counterize_plugin_ip.php:141
+#: counterize_plugin_ip.php:164
+#: counterize_plugin_ip.php:216
+#: counterize_plugin_ip.php:576
+#: counterize_plugin_ip.php:583
+#@ counterize
+#@ default
+msgid "IP addresses"
+msgstr "כתובות IP"
+
+#: counterize_plugin_ip.php:182
+#: counterize_plugin_ip.php:316
+#@ counterize
+msgid "Most active IP addresses"
+msgstr ""
+
+#: counterize_plugin_ip.php:183
+#@ counterize
+msgid "<p>Displays a diagram of the most active IP addresses.</p>"
+msgstr ""
+
+#: counterize_plugin_ip.php:184
+#: counterize_plugin_ip.php:195
+#@ counterize
+msgid "<p>This is useful to check how many pages your visitors visit.</p>"
+msgstr ""
+
+#: counterize_plugin_ip.php:193
+#: counterize_plugin_ip.php:366
+#@ counterize
+msgid "Most active IP addresses for the last 24 hours"
+msgstr ""
+
+#: counterize_plugin_ip.php:194
+#@ counterize
+msgid "<p>Displays a diagram of the most active IP addresses for the last 24 hours only.</p>"
+msgstr ""
+
+#: counterize_plugin_ip.php:237
+#, php-format
+#@ counterize
+msgid "(error fetching domain name for %s)"
+msgstr ""
+
+#: counterize_plugin_ip.php:246
+#@ counterize
+msgid "(invalid IP address)"
+msgstr ""
+
+#: counterize_plugin_ip.php:414
+#@ counterize
+msgid "Most active hosts"
+msgstr "שירותי אחסון הכי פעילים"
+
+#: counterize_plugin_ip.php:420
+#: counterize_plugin_ip.php:467
+#@ counterize
+msgid "Hosts"
+msgstr "שירותי אחסון"
+
+#: counterize_plugin_ip.php:461
+#@ counterize
+msgid "Most active hosts for the last 24 hours"
+msgstr ""
+
+#: counterize_plugin_ip.php:577
+#: counterize_plugin_ip.php:584
+#@ counterize
+msgid "Hostnames"
+msgstr ""
+
+#: counterize_widget.php:31
+#@ counterize
+msgid "Default title"
+msgstr ""
+
+#: counterize_widget.php:36
+#@ counterize
+msgid "Title:"
+msgstr ""
+
+#: counterize_plugin_traffic.php:143
+#: counterize_plugin_traffic.php:144
+#: counterize_plugin_traffic.php:167
+#: counterize_plugin_traffic.php:319
+#: counterize_plugin_traffic.php:992
+#@ counterize
+#@ default
+msgid "Traffic"
+msgstr "תנועה"
+
+#: counterize_plugin_traffic.php:185
+#@ counterize
+msgid "Hit counter"
+msgstr ""
+
+#: counterize_plugin_traffic.php:186
+#@ counterize
+msgid "Displays a table with hits, page views and unique visitors. Here is an explanation of what each line represents:"
+msgstr ""
+
+#: counterize_plugin_traffic.php:188
+#: counterize_plugin_traffic.php:446
+#: counterize_plugin_traffic.php:993
+#: counterize_plugin_traffic.php:1014
+#@ counterize
+msgid "Hits"
+msgstr "צפיות"
+
+#: counterize_plugin_traffic.php:189
+#: counterize_plugin_traffic.php:446
+#@ counterize
+msgid "A hit is counted each time a ressource is fetched. The resource is not necessarily an existing page or post."
+msgstr ""
+
+#: counterize_plugin_traffic.php:191
+#: counterize_plugin_traffic.php:454
+#@ counterize
+msgid "Pages views"
+msgstr "צפיות בדפים"
+
+#: counterize_plugin_traffic.php:192
+#@ counterize
+msgid "A page view is counted each time a hit concerns a valid page or post."
+msgstr ""
+
+#: counterize_plugin_traffic.php:194
+#: counterize_plugin_traffic.php:462
+#@ counterize
+msgid "Unique visitors"
+msgstr "מבקרים ייחודיים"
+
+#: counterize_plugin_traffic.php:195
+#: counterize_plugin_traffic.php:462
+#@ counterize
+msgid "A unique visitor is counted only the first time its IP is recorded."
+msgstr ""
+
+#: counterize_plugin_traffic.php:197
+#@ counterize
+msgid "Unique visitors ‪(1h interval)‬"
+msgstr "מבקרים ייחודיים (מרווחים של שעה)"
+
+#: counterize_plugin_traffic.php:198
+#: counterize_plugin_traffic.php:470
+#@ counterize
+msgid "A visit will be counted again each time two or more hits from the same visitor are separated of more than 1 hour."
+msgstr ""
+
+#: counterize_plugin_traffic.php:200
+#@ counterize
+msgid "Unique visitors ‪(30 min interval)‬"
+msgstr "מבקרים ייחודיים (מרווחים של חצי שעה)"
+
+#: counterize_plugin_traffic.php:201
+#: counterize_plugin_traffic.php:478
+#@ counterize
+msgid "A visit will be counted again each time two or more hits from the same visitor are separated of more than 30 minutes."
+msgstr ""
+
+#: counterize_plugin_traffic.php:203
+#@ counterize
+msgid "Hits per unique visitor‬"
+msgstr "צפיות לכל מבקר ייחודי"
+
+#: counterize_plugin_traffic.php:204
+#: counterize_plugin_traffic.php:486
+#@ counterize
+msgid "The number of hits per unique visitor."
+msgstr ""
+
+#: counterize_plugin_traffic.php:206
+#: counterize_plugin_traffic.php:494
+#@ counterize
+msgid "Pages per unique visitor"
+msgstr "דפים לכל מבקר ייחודי"
+
+#: counterize_plugin_traffic.php:207
+#: counterize_plugin_traffic.php:494
+#@ counterize
+msgid "The number of pages/posts visited per unique visitor."
+msgstr ""
+
+#: counterize_plugin_traffic.php:217
+#: counterize_plugin_traffic.php:539
+#@ counterize
+msgid "Hits based on day of month"
+msgstr "צפיות לפי יום בחודש"
+
+#: counterize_plugin_traffic.php:218
+#@ counterize
+msgid "<p>Displays a diagram of the number of hits depending on the day of month.</p>"
+msgstr ""
+
+#: counterize_plugin_traffic.php:227
+#@ counterize
+msgid "Hits based for the current month"
+msgstr ""
+
+#: counterize_plugin_traffic.php:228
+#@ counterize
+msgid "<p>Displays a diagram of the number of hits depending on the day of month, for this month only.</p>"
+msgstr ""
+
+#: counterize_plugin_traffic.php:237
+#: counterize_plugin_traffic.php:626
+#@ counterize
+msgid "Hits based on day of week"
+msgstr "צפיות לפי יום בשבוע"
+
+#: counterize_plugin_traffic.php:238
+#@ counterize
+msgid "<p>Displays a diagram of the number of hits depending on the day of week.</p>"
+msgstr ""
+
+#: counterize_plugin_traffic.php:247
+#: counterize_plugin_traffic.php:613
+#@ counterize
+msgid "Hits for the last 7 days"
+msgstr "צפיות בשבוע האחרון"
+
+#: counterize_plugin_traffic.php:248
+#@ counterize
+msgid "<p>Displays a diagram of the number of hits for the last 7 days.</p>"
+msgstr ""
+
+#: counterize_plugin_traffic.php:257
+#: counterize_plugin_traffic.php:711
+#@ counterize
+msgid "Progression between last week and current week"
+msgstr "התקדמות בין שבוע שעבר לשבוע הנוכחי"
+
+#: counterize_plugin_traffic.php:258
+#@ counterize
+msgid "<p>Displays a diagram of the progression between last week and the current week.</p>"
+msgstr ""
+
+#: counterize_plugin_traffic.php:267
+#: counterize_plugin_traffic.php:784
+#@ counterize
+msgid "Hits based on month"
+msgstr "צפיות לפי חודשים"
+
+#: counterize_plugin_traffic.php:268
+#@ counterize
+msgid "<p>Displays a diagram of the number of hits per month.</p>"
+msgstr ""
+
+#: counterize_plugin_traffic.php:277
+#: counterize_plugin_traffic.php:775
+#@ counterize
+msgid "Monthly hits for the current year"
+msgstr "צפיות חודשיות בשנה זו"
+
+#: counterize_plugin_traffic.php:278
+#@ counterize
+msgid "<p>Displays a diagram of the number of monthly hits for the current year.</p>"
+msgstr ""
+
+#: counterize_plugin_traffic.php:287
+#: counterize_plugin_traffic.php:856
+#@ counterize
+msgid "Hits based on hour of day"
+msgstr "צפיות לפי שעה ביום"
+
+#: counterize_plugin_traffic.php:288
+#@ counterize
+msgid "<p>Displays a diagram of the number of hits depending on the hour of day.</p>"
+msgstr ""
+
+#: counterize_plugin_traffic.php:297
+#: counterize_plugin_traffic.php:847
+#@ counterize
+msgid "Hourly hits for the last 24 hours"
+msgstr "צפיות בשעה ליממה האחרונה"
+
+#: counterize_plugin_traffic.php:298
+#@ counterize
+msgid "<p>Displays a diagram of the hourly hits for the last 24 hours.</p>"
+msgstr ""
+
+#: counterize_plugin_traffic.php:348
+#@ counterize
+msgid "Hit Counter"
+msgstr "מונה צפיות"
+
+#: counterize_plugin_traffic.php:426
+#@ counterize
+msgid "Traffic statistics"
+msgstr "סטטיסטיקת תנועה"
+
+#: counterize_plugin_traffic.php:430
+#@ counterize
+msgid "Today"
+msgstr "היום"
+
+#: counterize_plugin_traffic.php:433
+#@ counterize
+msgid "Last 24 hours"
+msgstr "24 שעות אחרונות"
+
+#: counterize_plugin_traffic.php:436
+#@ counterize
+msgid "Last 7 days"
+msgstr "בשבוע האחרון"
+
+#: counterize_plugin_traffic.php:439
+#@ counterize
+msgid "Last 30 days"
+msgstr "בחודש האחרון"
+
+#: counterize_plugin_traffic.php:442
+#@ counterize
+msgid "Total"
+msgstr "סך הכל"
+
+#: counterize_plugin_traffic.php:454
+#@ counterize
+msgid "A page view is counted each time a hit concerns a valid page or post"
+msgstr ""
+
+#: counterize_plugin_traffic.php:470
+#@ counterize
+msgid "Unique visitors &#x202A;(1h interval)&#x202C;"
+msgstr ""
+
+#: counterize_plugin_traffic.php:478
+#@ counterize
+msgid "Unique visitors &#x202A;(30&nbsp;min interval)&#x202C;"
+msgstr ""
+
+#: counterize_plugin_traffic.php:486
+#@ counterize
+msgid "Hits per unique visitor"
+msgstr "צפיות לכל מבקר ייחודי"
+
+#: counterize_plugin_traffic.php:530
+#@ counterize
+msgid "Hits for the current month"
+msgstr "צפיות בחודש הנוכחי"
+
+#: counterize_plugin_traffic.php:535
+#@ counterize
+msgid "Day"
+msgstr "יום"
+
+#: counterize_plugin_traffic.php:544
+#@ counterize
+msgid "Day of month"
+msgstr "יום בחודש"
+
+#: counterize_plugin_traffic.php:618
+#@ counterize
+msgid "Date"
+msgstr "תאריך"
+
+#: counterize_plugin_traffic.php:631
+#: counterize_plugin_traffic.php:717
+#@ counterize
+msgid "Day of week"
+msgstr "יום בשבוע"
+
+#: counterize_plugin_traffic.php:780
+#: counterize_plugin_traffic.php:789
+#@ counterize
+msgid "Month"
+msgstr "חודש"
+
+#: counterize_plugin_traffic.php:852
+#: counterize_plugin_traffic.php:861
+#@ counterize
+msgid "Hour"
+msgstr "שעה"
+
+#: counterize_plugin_traffic.php:994
+#: counterize_plugin_traffic.php:1015
+#@ counterize
+msgid "Hourly stats"
+msgstr "סטטיסטיקה לפי שעות"
+
+#: counterize_plugin_traffic.php:995
+#: counterize_plugin_traffic.php:1016
+#@ counterize
+msgid "Daily stats"
+msgstr "סטטיסטיקה לפי ימים"
+
+#: counterize_plugin_traffic.php:996
+#: counterize_plugin_traffic.php:1017
+#@ counterize
+msgid "Weekly stats"
+msgstr "סטטיסטיקה לפי שבועות"
+
+#: counterize_plugin_traffic.php:997
+#: counterize_plugin_traffic.php:1018
+#@ counterize
+msgid "Monthly stats"
+msgstr "סטטיסטיקה לפי חודשים"
+
+#: counterize_plugin_traffic.php:998
+#@ counterize
+msgid "Total hits"
+msgstr "סה\\\"כ צפיות"
+
+#: counterize_plugin_traffic.php:1005
+#@ counterize
+msgid "Only today"
+msgstr "היום בלבד"
+
+#: counterize_plugin_traffic.php:1006
+#@ counterize
+msgid "Only this week"
+msgstr "השבוע בלבד"
+
+#: counterize_plugin_traffic.php:1007
+#@ counterize
+msgid "Only this month"
+msgstr "החודש בלבד"
+
+#: counterize_plugin_traffic.php:1008
+#@ counterize
+msgid "Only this year"
+msgstr "השנה בלבד"
+
+#: counterize_plugin_pages.php:140
+#: counterize_plugin_pages.php:141
+#: counterize_plugin_pages.php:164
+#: counterize_plugin_pages.php:238
+#@ counterize
+#@ default
+msgid "Popular pages"
+msgstr "דפים פופולרים"
+
+#: counterize_plugin_pages.php:182
+#: counterize_plugin_pages.php:410
+#@ counterize
+msgid "Most popular posts/pages"
+msgstr "הדפים\\פוסטים הפופולרים ביותר"
+
+#: counterize_plugin_pages.php:183
+#@ counterize
+msgid "<p>Displays a diagram of the most popular posts or pages.</p>"
+msgstr ""
+
+#: counterize_plugin_pages.php:184
+#: counterize_plugin_pages.php:195
+#@ counterize
+msgid "<p>This is useful to find what is the favorite post or page of your visitors. It can also show you which posts or pages you could improve.</p>"
+msgstr ""
+
+#: counterize_plugin_pages.php:194
+#@ counterize
+msgid "<p>Displays a diagram of the most popular posts or pages, for the last 24 hours only.</p>"
+msgstr ""
+
+#: counterize_plugin_pages.php:204
+#: counterize_plugin_pages.php:309
+#@ counterize
+msgid "Most requested URLs"
+msgstr "כתובות ה URL המבוקשים ביותר"
+
+#: counterize_plugin_pages.php:205
+#@ counterize
+msgid "<p>Displays a diagram of the most requested URLs.</p>"
+msgstr ""
+
+#: counterize_plugin_pages.php:206
+#: counterize_plugin_pages.php:217
+#@ counterize
+msgid "<p>This is useful if your posts or pages can be accessed by different URLs: you will know the most popular URL.</p>"
+msgstr ""
+
+#: counterize_plugin_pages.php:215
+#@ counterize
+msgid "Most requested URLs for the last 24 hours"
+msgstr ""
+
+#: counterize_plugin_pages.php:216
+#@ counterize
+msgid "<p>Displays a diagram of the most requested URLs, for the last 24 hours only.</p>"
+msgstr ""
+
+#: counterize_plugin_pages.php:359
+#@ counterize
+msgid "Most requested URLs ‪of the last 24 hours"
+msgstr ""
+
+#: counterize_plugin_pages.php:416
+#: counterize_plugin_pages.php:491
+#@ counterize
+msgid "Posts/pages"
+msgstr ""
+
+#: counterize_plugin_pages.php:485
+#@ counterize
+msgid "Most popular posts/pages for the last 24 hours"
+msgstr ""
+
+#: counterize_plugin_pages.php:616
+#: counterize_plugin_pages.php:623
+#@ counterize
+msgid "URLs"
+msgstr ""
+
+#: counterize_plugin_pages.php:617
+#: counterize_plugin_pages.php:624
+#@ counterize
+msgid "Posts and Pages"
+msgstr ""
+
+#: counterize.php:134
+#@ counterize
+msgid "Monday"
+msgstr "יום שני"
+
+#: counterize.php:135
+#@ counterize
+msgid "Tuesday"
+msgstr "יום שלישי"
+
+#: counterize.php:136
+#@ counterize
+msgid "Wednesday"
+msgstr "יום רביעי"
+
+#: counterize.php:137
+#@ counterize
+msgid "Thursday"
+msgstr "יום חמישי"
+
+#: counterize.php:138
+#@ counterize
+msgid "Friday"
+msgstr "יום שישי"
+
+#: counterize.php:139
+#@ counterize
+msgid "Saturday"
+msgstr "יום שבת"
+
+#: counterize.php:140
+#@ counterize
+msgid "Sunday"
+msgstr "יום ראשון"
+
+#: counterize.php:145
+#, php-format
+#@ counterize
+msgid "Jan %d"
+msgstr ""
+
+#: counterize.php:146
+#, php-format
+#@ counterize
+msgid "Feb %d"
+msgstr ""
+
+#: counterize.php:147
+#, php-format
+#@ counterize
+msgid "Mar %d"
+msgstr ""
+
+#: counterize.php:148
+#, php-format
+#@ counterize
+msgid "Apr %d"
+msgstr ""
+
+#: counterize.php:149
+#, php-format
+#@ counterize
+msgid "May %d"
+msgstr ""
+
+#: counterize.php:150
+#, php-format
+#@ counterize
+msgid "Jun %d"
+msgstr ""
+
+#: counterize.php:151
+#, php-format
+#@ counterize
+msgid "Jul %d"
+msgstr ""
+
+#: counterize.php:152
+#, php-format
+#@ counterize
+msgid "Aug %d"
+msgstr ""
+
+#: counterize.php:153
+#, php-format
+#@ counterize
+msgid "Sep %d"
+msgstr ""
+
+#: counterize.php:154
+#, php-format
+#@ counterize
+msgid "Oct %d"
+msgstr ""
+
+#: counterize.php:155
+#, php-format
+#@ counterize
+msgid "Nov %d"
+msgstr ""
+
+#: counterize.php:156
+#, php-format
+#@ counterize
+msgid "Dec %d"
+msgstr ""
+
+#: counterize.php:1865
+#@ counterize
+msgid "Statistics recorded with <a href=\"http://www.gabsoftware.com/products/scripts/counterize/\" title=\"Counterize - Statistics-plugin for WordPress by GabSoftware\">Counterize</a>"
+msgstr ""
+
+#: counterize.php:1866
+#@ default
+msgid "Version"
+msgstr ""
+
+#: counterize.php:1918
+#@ counterize
+msgid "Latest entries"
+msgstr ""
+
+#: counterize.php:2036
+#@ counterize
+msgid "Filters"
+msgstr ""
+
+#: counterize.php:2043
+#@ counterize
+msgid "Define one or more filters (you can separate entries with \"||\")"
+msgstr ""
+
+#: counterize.php:2045
+#@ counterize
+msgid "Filter fields"
+msgstr ""
+
+#: counterize.php:2048
+#@ counterize
+msgid "Filter for these IP addresses:"
+msgstr ""
+
+#: counterize.php:2051
+#@ counterize
+msgid "Example: 10.20.30.%"
+msgstr ""
+
+#: counterize.php:2054
+#: counterize.php:2066
+#: counterize.php:2078
+#: counterize.php:2090
+#: counterize.php:2102
+#: counterize.php:2114
+#@ counterize
+msgid "Click this button to clear this field"
+msgstr ""
+
+#: counterize.php:2054
+#: counterize.php:2066
+#: counterize.php:2078
+#: counterize.php:2090
+#: counterize.php:2102
+#: counterize.php:2114
+#: counterize.php:2128
+#@ counterize
+msgid "Clear"
+msgstr ""
+
+#: counterize.php:2060
+#@ counterize
+msgid "Filter for these countries:"
+msgstr ""
+
+#: counterize.php:2063
+#@ counterize
+msgid "ISO 3166-1 Alpha-2 country codes. Example: FR for France"
+msgstr ""
+
+#: counterize.php:2072
+#@ counterize
+msgid "Filter for these URLs:"
+msgstr ""
+
+#: counterize.php:2075
+#@ counterize
+msgid "Example: /2012/01/01/my-awesome-post"
+msgstr ""
+
+#: counterize.php:2084
+#@ counterize
+msgid "Filter for these referers:"
+msgstr ""
+
+#: counterize.php:2087
+#, php-format
+#@ counterize
+msgid "Example: %google.com%"
+msgstr ""
+
+#: counterize.php:2096
+#@ counterize
+msgid "Filter for these user-agents:"
+msgstr ""
+
+#: counterize.php:2099
+#, php-format
+#@ counterize
+msgid "Example: %Firefox%"
+msgstr ""
+
+#: counterize.php:2108
+#@ counterize
+msgid "Filter for these keywords"
+msgstr ""
+
+#: counterize.php:2111
+#@ counterize
+msgid "A list of keywords"
+msgstr ""
+
+#: counterize.php:2120
+#@ counterize
+msgid "Between"
+msgstr "בין"
+
+#: counterize.php:2124
+#@ counterize
+msgid " and "
+msgstr "ו"
+
+#: counterize.php:2128
+#@ counterize
+msgid "Click this button to clear these fields"
+msgstr ""
+
+#: counterize.php:2134
+#@ counterize
+msgid "Include filter"
+msgstr ""
+
+#: counterize.php:2138
+#@ counterize
+msgid "(Matches everything included in the filters)"
+msgstr ""
+
+#: counterize.php:2144
+#@ counterize
+msgid "Exclude filter"
+msgstr ""
+
+#: counterize.php:2148
+#@ counterize
+msgid "(Matches everything not included in the filters)"
+msgstr ""
+
+#: counterize.php:2154
+#@ counterize
+msgid "LIKE filter"
+msgstr ""
+
+#: counterize.php:2157
+#: counterize.php:2167
+#@ counterize
+msgid "Escape wildcards characters with '\\' if they should not to be processed as wildcards characters."
+msgstr ""
+
+#: counterize.php:2158
+#: counterize.php:2168
+#@ counterize
+msgid "(Wildcard characters '%' and '_' are allowed)"
+msgstr ""
+
+#: counterize.php:2164
+#@ counterize
+msgid "NOT LIKE filter"
+msgstr ""
+
+#: counterize.php:2174
+#@ counterize
+msgid "Debug query"
+msgstr ""
+
+#: counterize.php:2178
+#@ counterize
+msgid "(Check this to see the generated SQL query)"
+msgstr ""
+
+#: counterize.php:2183
+#@ counterize
+msgid "Click on the <a href=\"#contextual-help-wrap\">Help link</a> above to learn more about what you can do with filters."
+msgstr ""
+
+#: counterize.php:2192
+#@ counterize
+msgid "Click this button to submit your filters"
+msgstr ""
+
+#: counterize.php:2192
+#@ counterize
+msgid "Submit filter"
+msgstr ""
+
+#: counterize.php:2193
+#@ counterize
+msgid "Click this button to clear ALL the filters"
+msgstr ""
+
+#: counterize.php:2193
+#@ counterize
+msgid "Clear form"
+msgstr ""
+
+#: counterize.php:2194
+#@ counterize
+msgid "Click this button to cancel any change made to filters"
+msgstr ""
+
+#: counterize.php:2194
+#@ counterize
+msgid "Cancel changes"
+msgstr ""
+
+#: counterize.php:2195
+#@ counterize
+msgid "Click this button to reset the whole form (will refresh the page)"
+msgstr ""
+
+#: counterize.php:2195
+#@ counterize
+msgid "Reset filters"
+msgstr ""
+
+#: counterize.php:2253
+#: counterize.php:2339
+#@ counterize
+msgid "Nonce not verified. What are you trying to do?"
+msgstr ""
+
+#: counterize.php:2264
+#: counterize.php:2509
+#@ counterize
+msgid "&laquo;&nbsp;First page"
+msgstr ""
+
+#: counterize.php:2265
+#: counterize.php:2510
+#@ counterize
+msgid "&lsaquo;&nbsp;Previous page"
+msgstr ""
+
+#: counterize.php:2269
+#@ counterize
+msgid "Go to page:"
+msgstr ""
+
+#: counterize.php:2273
+#@ counterize
+msgid "OK"
+msgstr ""
+
+#: counterize.php:2277
+#: counterize.php:2514
+#@ counterize
+msgid "Next page&nbsp;&rsaquo;"
+msgstr ""
+
+#: counterize.php:2278
+#: counterize.php:2515
+#@ counterize
+msgid "Last page&nbsp;&raquo;"
+msgstr ""
+
+#: counterize.php:2294
+#: counterize.php:2308
+#: counterize.php:2359
+#@ counterize
+msgid "Select"
+msgstr "בחר"
+
+#: counterize.php:2295
+#: counterize.php:2309
+#: counterize.php:2360
+#@ counterize
+msgid "ID"
+msgstr ""
+
+#: counterize.php:2297
+#: counterize.php:2311
+#: counterize.php:2362
+#@ counterize
+msgid "Country"
+msgstr ""
+
+#: counterize.php:2298
+#: counterize.php:2312
+#: counterize.php:2363
+#@ counterize
+msgid "Timestamps"
+msgstr ""
+
+#: counterize.php:2301
+#: counterize.php:2315
+#: counterize.php:2366
+#@ counterize
+msgid "User-agents"
+msgstr ""
+
+#: counterize.php:2303
+#: counterize.php:2317
+#: counterize.php:2368
+#@ counterize
+msgid "Kill"
+msgstr ""
+
+#: counterize.php:2398
+#@ counterize
+msgid "Add a filter for this IP address"
+msgstr ""
+
+#: counterize.php:2401
+#@ counterize
+msgid "Geo IP tool service"
+msgstr ""
+
+#: counterize.php:2404
+#@ counterize
+msgid "Whois service for this IP address"
+msgstr ""
+
+#: counterize.php:2412
+#@ counterize
+msgid "Add a filter for this country"
+msgstr ""
+
+#: counterize.php:2434
+#@ counterize
+msgid "Add a filter for this URL"
+msgstr ""
+
+#: counterize.php:2444
+#: counterize.php:2452
+#@ counterize
+msgid "Add a filter for this referer"
+msgstr ""
+
+#: counterize.php:2463
+#@ counterize
+msgid "Add a filter for this user-agent"
+msgstr ""
+
+#: counterize.php:2470
+#@ counterize
+msgid "Add a filter for this keyword"
+msgstr ""
+
+#: counterize.php:2477
+#@ counterize
+msgid "Click here to delete this entry"
+msgstr ""
+
+#: counterize.php:2492
+#@ counterize
+msgid "Check all"
+msgstr ""
+
+#: counterize.php:2498
+#@ counterize
+msgid "Uncheck all"
+msgstr ""
+
+#: counterize.php:2503
+#@ counterize
+msgid "Delete checked entries"
+msgstr ""
+
+#: counterize.php:2512
+#@ counterize
+msgid "&uarr;&nbsp;Top of the page&nbsp;&uarr;"
+msgstr ""
+
+#: counterize.php:2530
+#@ counterize
+msgid "Configuration updated"
+msgstr ""
+
+#: counterize.php:2545
+#@ counterize
+msgid "<strong>There's no data in the database - You can't see stats until you have data.</strong>"
+msgstr ""
+
+#: counterize.php:2554
+#, php-format
+#@ counterize
+msgid "<h2 style=\"color: #F00;\">Important</h2><strong>No Counterize plugin has been activated</strong>. Please activate the plugins you need in the <a href=\"%s\">Plugins page</a>."
+msgstr ""
+
+#: counterize.php:2693
+#@ counterize
+msgid "<strong>Need more help? </strong>Go to <a href=\"http://www.gabsoftware.com/products/scripts/counterize/\" target=\"_blank\">the Counterize homepage</a> and search inside the comments. Someone may have had the same question or problem as you..."
+msgstr ""
+
+#: counterize.php:2696
+#@ counterize
+msgid "Alternatively, you can also post your questions, suggestions and report problems in <a href=\"http://forum.gabsoftware.com/\" target=\"_blank\">our forum</a> or contact us in the comments or by email."
+msgstr ""
+
+#: counterize.php:2699
+#@ counterize
+msgid "If you like Counterize and want to support its development, consider <strong><a style=\"color: #f00\" href=\"http://www.gabsoftware.com/donate/\" target=\"_blank\">making a donation</a></strong>."
+msgstr ""
+
+#: counterize.php:2815
+#@ counterize
+msgid "[Counterize] New report available"
+msgstr ""
+
+#: counterize.php:2858
+#@ counterize
+msgid "Counterize report"
+msgstr "דיווח מונה"
+
+#: counterize.php:3001
+#: counterize.php:3133
+#@ default
+#@ counterize
+msgid "All stats"
+msgstr "כל הסטטיסטיקות"
+
+#: counterize.php:3053
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: counterize.php:3079
+#@ counterize
+msgid "Counterize Status"
+msgstr "מצב מונה"
+
+#: counterize.php:3097
+#@ counterize
+msgid "Configure"
+msgstr "הגדר"
+
+#: counterize.php:3159
+#@ counterize
+msgid "IP address filter"
+msgstr ""
+
+#: counterize.php:3160
+#@ counterize
+msgid "<p>You can type one or more IP addresses separated by \"||\".</p>"
+msgstr ""
+
+#: counterize.php:3161
+#: counterize.php:3172
+#: counterize.php:3183
+#: counterize.php:3194
+#: counterize.php:3205
+#: counterize.php:3216
+#@ counterize
+msgid "<p>You may use the wildcard characters \"%\" and \"_\" (see the Wildcard tab for more information).</p>"
+msgstr ""
+
+#: counterize.php:3170
+#@ counterize
+msgid "Country filter"
+msgstr ""
+
+#: counterize.php:3171
+#@ counterize
+msgid "<p>You can type one or more ISO 3166-1 Alpha-2 country codes separated by \"||\". More information <a target=\"_blank\" href=\"http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2\">here</a>.</p>"
+msgstr ""
+
+#: counterize.php:3181
+#@ counterize
+msgid "URL filter"
+msgstr ""
+
+#: counterize.php:3182
+#@ counterize
+msgid "<p>You can type one or more URLs separated by \"||\".</p>"
+msgstr ""
+
+#: counterize.php:3192
+#@ counterize
+msgid "Referer filter"
+msgstr ""
+
+#: counterize.php:3193
+#@ counterize
+msgid "<p>You can type one or more referers separated by \"||\".</p>"
+msgstr ""
+
+#: counterize.php:3203
+#@ counterize
+msgid "User-agent filter"
+msgstr ""
+
+#: counterize.php:3204
+#@ counterize
+msgid "<p>You can type one or more user-agents separated by \"||\".</p>"
+msgstr ""
+
+#: counterize.php:3214
+#@ counterize
+msgid "Keywords filter"
+msgstr ""
+
+#: counterize.php:3215
+#@ counterize
+msgid "<p>You can type one or more keywords separated by \"||\".</p>"
+msgstr ""
+
+#: counterize.php:3225
+#@ counterize
+msgid "Date filter"
+msgstr ""
+
+#: counterize.php:3226
+#@ counterize
+msgid ""
+"<p>You can filter entries between two dates. Just choose two valid dates (or type them if your browser displays text fields).</p>\n"
+"\t\t\t\t\t\t\t\t<p>Valid dates should follow the RFC 3339 as described in <a target=\"_blank\" href=\"http://dev.w3.org/html5/markup/datatypes.html#form.data.datetime-local\">this document</a>.</p>\n"
+"\t\t\t\t\t\t\t\t<p>Each date consists on a date formated as yyyy-mm-dd, followed by the character T, followed by a time formatted as HH:mm:ss. Example: 2012-01-01T12:30:00 represents January 1st 2012 at 12 hours 30 minutes and 0 seconds.</p>\n"
+"\t\t\t\t\t\t\t\t<h3>Notes:</h3>\n"
+"\t\t\t\t\t\t\t\t<ul>\n"
+"\t\t\t\t\t\t\t\t\t<li>The time part is optional. In that case, do not add a T.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>You may ommit the seconds and minutes in the time part.</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>If you prefer, you may use a space instead of the T character, it will work too.</li>\n"
+"\t\t\t\t\t\t\t\t</ul>"
+msgstr ""
+
+#: counterize.php:3243
+#@ counterize
+msgid "Wildcards"
+msgstr ""
+
+#: counterize.php:3244
+#@ counterize
+msgid ""
+"<p>You may use the wildcard characters \"%\" and \"_\" in most filters.</p>\n"
+"\t\t\t\t\t\t\t\t<p>The \"%\" character stands for zero to any characters and the \"_\" character stands for only one character.</p>\n"
+"\t\t\t\t\t\t\t\t<p>Wildcard characters are only available when the LIKE  or NOT LIKE filters are checked.</p>\n"
+"\t\t\t\t\t\t\t\t<p>More information about the wildcard characters <a target=\"_blank\" href=\"http://dev.mysql.com/doc/refman/5.0/en/string-comparison-functions.html\">here</a>.</p>"
+msgstr ""
+
+#: counterize.php:3256
+#@ counterize
+msgid "Filter types"
+msgstr ""
+
+#: counterize.php:3257
+#@ counterize
+msgid ""
+"<p>There are 4 filter types: <strong>Include</strong>, <strong>Exclude</strong>, <strong>LIKE</strong> and <strong>NOT LIKE</strong>.</p>\n"
+"\t\t\t\t\t\t\t\t<p>The Include filter will retrieve the data that meet the criterias of each filter. The \"||\" separator will act like a logical OR.</p>\n"
+"\t\t\t\t\t\t\t\t<p>The Exclude filter will retrieve the data that correspond to the contrary of what is set in the filters. The \"||\" separator will act like a logical AND.</p>\n"
+"\t\t\t\t\t\t\t\t<p>The LIKE and NOT LIKE filters let you use the LIKE syntax of MySQL. More information <a target=\"_blank\" href=\"http://dev.mysql.com/doc/refman/5.0/en/string-comparison-functions.html\">here</a>.</p>"
+msgstr ""
+
+#: counterize.php:3269
+#@ counterize
+msgid "Debug"
+msgstr ""
+
+#: counterize.php:3270
+#@ counterize
+msgid "<p>If you check the Debug checkbox, the query generated by your filters will be displayed in case you want to check why your filters do not retrieve the expected data or if you want to run the query manually.</p>"
+msgstr ""
+
+#: counterize.php:3279
+#@ counterize
+msgid "Buttons"
+msgstr ""
+
+#: counterize.php:3280
+#@ counterize
+msgid ""
+"<h3>Filters form buttons</h3>\n"
+"\t\t\t\t\t\t\t\t<p>There are quite a few buttons in the filters form. Here is what they are used for:\n"
+"\t\t\t\t\t\t\t\t\t<ul>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"Clear\" buttons will clear the associated filter</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"Submit\" button will apply your filters</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"Clear form\" button will clearn all the filters</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"Cancel changes\" button will restore all the filters to their last submitted value if any, or to an empty string otherwise.</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"Reset filters\" button will refresh the page so you can start with a clean filters form.</li>\n"
+"\t\t\t\t\t\t\t\t\t</ul>\n"
+"\t\t\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t\t\t<h3>Latest entries buttons</h3>\n"
+"\t\t\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t\t\t\t<ul>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"F\" buttons will help you to add the associated value to the filters form</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"G\" button will take you to a GeoIP service for the selected IP address</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The <span style=\"font-weight: bold; color: red;\">\"X\"</span> button will delete the related entry from the Counterize history</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"Check all\" button will check all the displayed entries to let you mass delete them</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"Uncheck all\" button will uncheck any checked entry</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"Delete checked entries\" button will mass-delete any checked entry</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"Top of the page\" button will take you back to the top of the page</li>\n"
+"\t\t\t\t\t\t\t\t\t\t<li>The \"OK\", \"First page\", \"Previous page\", \"Next page\" and \"Last page\" buttons let you navigate in the entries of the history</li>\n"
+"\t\t\t\t\t\t\t\t\t</ul>\n"
+"\t\t\t\t\t\t\t\t</p>"
+msgstr ""
+
+#: counterize.php:3308
+#@ counterize
+msgid "<p>Choose a tab to learn more about the History page.</p>"
+msgstr ""
+
+#: counterize.php:3322
+#@ counterize
+msgid "Counterize Options"
+msgstr "אפשרויות מונה"
+
+#: counterize_plugin_outlinks.php:141
+#: counterize_plugin_outlinks.php:142
+#: counterize_plugin_outlinks.php:165
+#: counterize_plugin_outlinks.php:243
+#: counterize_plugin_outlinks.php:579
+#: counterize_plugin_outlinks.php:586
+#@ counterize
+#@ default
+msgid "Outlinks"
+msgstr "קישורים חיצוניים"
+
+#: counterize_plugin_outlinks.php:183
+#: counterize_plugin_outlinks.php:315
+#@ counterize
+msgid "Most clicked outlinks"
+msgstr "קישורים חיצוניים שנלחצו הכי הרבה פעמים"
+
+#: counterize_plugin_outlinks.php:184
+#@ counterize
+msgid "<p>Displays a diagram of the most clicked outlinks.</p>"
+msgstr "<p>מציג תרשים של הקישורים החיצוניים שהוקלקו הכי הרבה פעמים.</p>"
+
+#: counterize_plugin_outlinks.php:185
+#: counterize_plugin_outlinks.php:197
+#@ counterize
+msgid "<p>An outlink is a link that goes outside your website. When a visitor click such a link, he will leave your website.</p>"
+msgstr "<p>An קישור חיצוני הוא קישור היוצא מן האתר שלך. כאשר מבקר באתר לוחץ עליו הוא עוזב את האתר שלך ועובר לאתר אחר.</p>"
+
+#: counterize_plugin_outlinks.php:186
+#: counterize_plugin_outlinks.php:198
+#@ counterize
+msgid "<p>This is useful to find where your visitors go after they visited your website.</p>"
+msgstr "<p>זה שימושי כדי לגלות לאן הולכים המבקרים שלך לאחר שהם ביקרו באתר שלך</p>"
+
+#: counterize_plugin_outlinks.php:195
+#: counterize_plugin_outlinks.php:362
+#@ counterize
+msgid "Most clicked outlinks for the last 24 hours"
+msgstr "הקישורים החיצוניים שהיו בשימוש הכי הרבה ביממה האחרונה"
+
+#: counterize_plugin_outlinks.php:196
+#@ counterize
+msgid "<p>Displays a diagram of the most clicked outlinks, for the last 24 hours only.</p>"
+msgstr ""
+
+#: counterize_plugin_outlinks.php:207
+#: counterize_plugin_outlinks.php:409
+#: counterize_plugin_outlinks.php:580
+#: counterize_plugin_outlinks.php:587
+#@ counterize
+msgid "Exit pages"
+msgstr "דפי יציאה"
+
+#: counterize_plugin_outlinks.php:208
+#@ counterize
+msgid "<p>Displays a diagram of the exit pages.</p>"
+msgstr ""
+
+#: counterize_plugin_outlinks.php:209
+#: counterize_plugin_outlinks.php:221
+#@ counterize
+msgid "<p>An exit page is a page on your website from where an outlink had been clicked.</p>"
+msgstr ""
+
+#: counterize_plugin_outlinks.php:210
+#: counterize_plugin_outlinks.php:222
+#@ counterize
+msgid "<p>This is useful to know at which page your visitors leave your website.</p>"
+msgstr ""
+
+#: counterize_plugin_outlinks.php:219
+#@ counterize
+msgid "Exit pages for the last 24 hours"
+msgstr ""
+
+#: counterize_plugin_outlinks.php:220
+#@ counterize
+msgid "<p>Displays a diagram of the exit pages, for the last 24 hours only.</p>"
+msgstr ""
+
+#: counterize_plugin_outlinks.php:464
+#@ counterize
+msgid "Exit pages of the last 24 hours"
+msgstr "דפי יציאה של היממה האחרונה"
+
+#: counterize_dashboard.php:63
+#: counterize_dashboard.php:118
+#@ counterize
+msgid "Entry:  removed<br />"
+msgstr ""
+

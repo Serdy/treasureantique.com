@@ -1,0 +1,131 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.my-auctions {
+    position: relative;
+}
+
+.my-auctions .row {
+    clear: both;
+}
+
+.col-gr.header {
+    padding: 5px 0px;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.col-gr {
+    float: left;
+    display: inline;
+    position: relative;
+    width: 20%;
+}
+
+div.pagination {
+    padding: 3px;
+    margin: 3px;
+    text-align: center;
+    font-family: Tahoma, Helvetica, sans-serif;
+    clear: both;
+}
+
+div.pagination a {
+    color: #0645ad;
+    border: 1px solid #a9b8dd;
+    margin-right: 3px;
+    padding: 2px 6px;
+    background-position: bottom;
+    text-decoration: none;
+}
+
+div.pagination a:hover, div.pagination a:active {
+    border: 1px solid #3c61a5;
+    background-image: none;
+    background-color: #6b92d7;
+    color: #fff;
+}
+
+div.pagination span.current {
+    color: #000;
+    font-weight: bold;
+    margin-right: 3px;
+    padding: 2px 6px;
+}
+
+div.pagination span.disabled {
+    border: 1px solid #ddd;
+    color: #bbb;
+    margin-right: 3px;
+    padding: 2px 6px;
+}
+
+div.pagination .next {
+    margin: 0 3px 0 8px;
+}
+
+div.pagination .prev {
+    margin: 0 8px 0 0;
+}
+.delivery
+{
+    clear: both;
+}
+.delivery .col-gr
+{
+    position: relative;
+}
+
+.delivery .col-gr.caption
+{
+    width: 30%;
+}
+
+.delivery .row
+{
+    padding: 5px 0px;
+}
+
+.delivery .col-gr.input-value
+{
+    width: 70%;
+}
+
+.delivery .col-gr > label
+{
+    position: relative;
+    display: inline;
+    float: left;
+}
+.auction-summary .row
+{
+    padding: 5px 0px;
+    clear: both;
+}
+.auction-summary
+{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+#login-form .message.error, #register-form .message.error
+{
+    color: red;
+}
+#login-form .message.success , #register-form .message.success
+{
+    color: #008000;
+}
+
